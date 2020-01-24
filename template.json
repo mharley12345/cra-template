@@ -3,5 +3,6 @@
     "bushido-strap": "^1.3.5",
     "node-sass" : "^4.13.0",
     "styled-components" : "^4.4.0"
+    
  }
 }

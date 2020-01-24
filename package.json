@@ -1,6 +1,6 @@
 {
-  "name": "cra-template-brownbag",
-  "version": "1.0.1",
+  "name": "cra-template-mike-brownbag",
+  "version": "0.0.1",
   "description": "",
   "main": "template.json",
   "scripts": {
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/mharley12345/cra-template.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Mike Harley",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mharley12345/cra-template/issues"
   },
